@@ -17,22 +17,22 @@
 </p>
 <div style="display:flex;flex-direction:row">
         <a href="https://www.credly.com/badges/02c46ac5-e5e7-4ec5-8d2b-6c51747aea71">
-		    <img src="cks.png" width="fit-content">
+		    <img src="cks.png" width="100">
         </a>
         <a href="https://www.credly.com/badges/7220b087-a882-40a1-9a30-1bc5c4bb92b2">
-		    <img src="cka.png" width="fit-content">
+		    <img src="cka.png" width="100">
         </a>
         <a href="https://www.credly.com/badges/6ba908bc-aadd-4bf4-8a92-e5ea4175feba">
-		    <img src="aws-sa.png" width="fit-content">
+		    <img src="aws-sa.png" width="100">
         </a>
         <a href="https://www.credly.com/badges/abf724e3-9bad-42fc-a05c-be785c9ae94f">
-		    <img src="aws-sysops.png" width="fit-content">
+		    <img src="aws-sysops.png" width="100">
         </a>
         <a href="https://www.credly.com/badges/b2892ae3-039f-458b-856c-1dc9ef75318c">
-		    <img src="hashi-terraform.png" width="fit-content">
+		    <img src="hashi-terraform.png" width="100">
         </a>
         <a href="https://www.credly.com/badges/a2e77d85-576a-4c17-8d75-b696410da6b5">
-		    <img src="cisco-ccna.png" width="fit-content">
+		    <img src="cisco-ccna.png" width="100">
         </a>
 </div>
 
