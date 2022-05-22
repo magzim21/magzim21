@@ -10,11 +10,6 @@
 
 
 ### MY CERTIFICATIONS:
-<p float="left">
-  <a href="https://www.credly.com/badges/02c46ac5-e5e7-4ec5-8d2b-6c51747aea71"><img src="cks.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
-</p>
 <div style="display:flex;flex-direction:row">
         <a href="https://www.credly.com/badges/02c46ac5-e5e7-4ec5-8d2b-6c51747aea71">
 		    <img src="cks.png" width="100">
