@@ -10,8 +10,12 @@
 
 
 ### MY CERTIFICATIONS:
+<p float="left">
+  <img src="cks.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 <div style="display:flex;flex-direction:row">
-	<br> 
         <a href="https://www.credly.com/badges/02c46ac5-e5e7-4ec5-8d2b-6c51747aea71">
 		    <img src="cks.png" width="50%">
         </a>
@@ -30,7 +34,6 @@
         <a href="https://www.credly.com/badges/a2e77d85-576a-4c17-8d75-b696410da6b5">
 		    <img src="cisco-ccna.png" width="50%">
         </a>
-	<br>
 </div>
 
 
