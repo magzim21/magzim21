@@ -10,7 +10,7 @@
 
 
 ### MY CERTIFICATIONS:
-<div style="display:flex">
+<div style="display:flex;flex-direction:row">
 	<br> 
         <a href="https://www.credly.com/badges/02c46ac5-e5e7-4ec5-8d2b-6c51747aea71">
 		    <img src="cks.png">
