@@ -8,6 +8,7 @@
 - 📫 How to reach me: devops@maxim.run
 - ⚡ Fun fact: I've visited nearly 40 countries
 
+<br>
 
 ### MY CERTIFICATIONS:
 <div style="display:flex;flex-direction:row">
@@ -30,15 +31,15 @@
 		    <img src="cisco-ccna.png" width="100">
         </a>
 </div>
-
+<br>
+<br>
 
 <p align="left">
   <a href="https://github.com/magzim21"><img src="https://github-readme-stats.vercel.app/api?username=magzim21&hide_border=true&show_icons=true&theme=cobalt" alt="magzim21's github stats"></a>
 </p>
 
-
-
-
+<br>
+<br>
 
 ### Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme*  )
