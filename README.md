@@ -1,10 +1,9 @@
 ### Hi there ✨
 
-- 🔭 I’m self developing in various areas of life
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with machine learning
-- 💬 Ask me about 
+- 🌱 Books reader
+- 👯 I’m looking for jobs in Legaltech, Biotech, Space, Crypto, Fintech  
+- 🤔 I’m looking for building startup's infrastrucutre
+- 💬 Ask me about Terraform
 - 📫 How to reach me: devops@maxim.run
 - ⚡ Fun fact: I've visited nearly 40 countries
 
