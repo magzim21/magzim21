@@ -1,6 +1,6 @@
 ### Hi there ✨
 
-- 🌱 Books reader
+- 🌱 I'm books lover  
 - 👯 I’m looking for jobs in Legaltech, Biotech, Space, Crypto, Fintech  
 - 🤔 I’m looking for building startup's infrastrucutre
 - 💬 Ask me about Terraform
