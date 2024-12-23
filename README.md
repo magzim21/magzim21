@@ -30,6 +30,15 @@
         <a href="https://www.credly.com/badges/a2e77d85-576a-4c17-8d75-b696410da6b5">
 		    <img src="cisco-ccna.png" width="100">
         </a>
+        <a href="https://www.credly.com/badges/c0b89edd-54d2-4718-a042-2f06e882df50">
+		    <img src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="100">
+        </a>
+        <a href="https://www.credly.com/badges/9c9da33f-d547-4850-9c88-15f52e803df0">
+		    <img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100">
+        </a>
+        <a href="https://www.credly.com/badges/8fba9c81-394f-4d4a-9cdd-db90ec20add7">
+		    <img src="https://images.credly.com/size/680x680/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="100">
+        </a>
 </div>
 <br>
 <br>
